@@ -1,0 +1,7 @@
+
+# Default reviewers/codeowners for all code changes
+* @yasik1397
+
+# @ Reviewer by email for html files 
+*.html mohammedyasik.r.applogiq@gmail.com
+
